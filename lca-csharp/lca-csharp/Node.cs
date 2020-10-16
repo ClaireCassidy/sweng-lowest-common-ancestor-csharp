@@ -4,7 +4,7 @@ using System.Text;
 
 namespace lca_csharp
 {
-    class Node
+    public class Node
     {
 
         private int val;

@@ -1,0 +1,17 @@
+C:\Users\clair\dev\year3\software-engineering\assignments\ancestor-csharp\sweng-lowest-common-ancestor\lca-csharp\LowestCommonAncestorTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\clair\dev\year3\software-engineering\assignments\ancestor-csharp\sweng-lowest-common-ancestor\lca-csharp\LowestCommonAncestorTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\clair\dev\year3\software-engineering\assignments\ancestor-csharp\sweng-lowest-common-ancestor\lca-csharp\LowestCommonAncestorTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\clair\dev\year3\software-engineering\assignments\ancestor-csharp\sweng-lowest-common-ancestor\lca-csharp\LowestCommonAncestorTests\bin\Debug\netcoreapp2.1\LowestCommonAncestorTests.deps.json
+C:\Users\clair\dev\year3\software-engineering\assignments\ancestor-csharp\sweng-lowest-common-ancestor\lca-csharp\LowestCommonAncestorTests\bin\Debug\netcoreapp2.1\LowestCommonAncestorTests.runtimeconfig.json
+C:\Users\clair\dev\year3\software-engineering\assignments\ancestor-csharp\sweng-lowest-common-ancestor\lca-csharp\LowestCommonAncestorTests\bin\Debug\netcoreapp2.1\LowestCommonAncestorTests.runtimeconfig.dev.json
+C:\Users\clair\dev\year3\software-engineering\assignments\ancestor-csharp\sweng-lowest-common-ancestor\lca-csharp\LowestCommonAncestorTests\bin\Debug\netcoreapp2.1\LowestCommonAncestorTests.dll
+C:\Users\clair\dev\year3\software-engineering\assignments\ancestor-csharp\sweng-lowest-common-ancestor\lca-csharp\LowestCommonAncestorTests\bin\Debug\netcoreapp2.1\LowestCommonAncestorTests.pdb
+C:\Users\clair\dev\year3\software-engineering\assignments\ancestor-csharp\sweng-lowest-common-ancestor\lca-csharp\LowestCommonAncestorTests\bin\Debug\netcoreapp2.1\lca-csharp.dll
+C:\Users\clair\dev\year3\software-engineering\assignments\ancestor-csharp\sweng-lowest-common-ancestor\lca-csharp\LowestCommonAncestorTests\bin\Debug\netcoreapp2.1\lca-csharp.pdb
+C:\Users\clair\dev\year3\software-engineering\assignments\ancestor-csharp\sweng-lowest-common-ancestor\lca-csharp\LowestCommonAncestorTests\obj\Debug\netcoreapp2.1\LowestCommonAncestorTests.csprojAssemblyReference.cache
+C:\Users\clair\dev\year3\software-engineering\assignments\ancestor-csharp\sweng-lowest-common-ancestor\lca-csharp\LowestCommonAncestorTests\obj\Debug\netcoreapp2.1\LowestCommonAncestorTests.csproj.CoreCompileInputs.cache
+C:\Users\clair\dev\year3\software-engineering\assignments\ancestor-csharp\sweng-lowest-common-ancestor\lca-csharp\LowestCommonAncestorTests\obj\Debug\netcoreapp2.1\LowestCommonAncestorTests.AssemblyInfoInputs.cache
+C:\Users\clair\dev\year3\software-engineering\assignments\ancestor-csharp\sweng-lowest-common-ancestor\lca-csharp\LowestCommonAncestorTests\obj\Debug\netcoreapp2.1\LowestCommonAncestorTests.AssemblyInfo.cs
+C:\Users\clair\dev\year3\software-engineering\assignments\ancestor-csharp\sweng-lowest-common-ancestor\lca-csharp\LowestCommonAncestorTests\obj\Debug\netcoreapp2.1\LowestCommonAncestorTests.csproj.CopyComplete
+C:\Users\clair\dev\year3\software-engineering\assignments\ancestor-csharp\sweng-lowest-common-ancestor\lca-csharp\LowestCommonAncestorTests\obj\Debug\netcoreapp2.1\LowestCommonAncestorTests.dll
+C:\Users\clair\dev\year3\software-engineering\assignments\ancestor-csharp\sweng-lowest-common-ancestor\lca-csharp\LowestCommonAncestorTests\obj\Debug\netcoreapp2.1\LowestCommonAncestorTests.pdb

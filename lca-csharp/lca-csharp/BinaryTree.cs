@@ -4,7 +4,7 @@ using System.Text;
 
 namespace lca_csharp
 {
-    class BinaryTree
+    public class BinaryTree
     {
 
         private Node root;
@@ -27,10 +27,6 @@ namespace lca_csharp
         }
 
         /* -------------------------------*/
-        public void SayHello()
-        {
-            Console.WriteLine("Hi there");
-        }
 
         public Node GetRoot()
         {
@@ -73,13 +69,6 @@ namespace lca_csharp
             }
         }
 
-        public void PrintInOrder()
-        {
-            Console.WriteLine("\n\nPRINTING\n\n");
-            PrintInOrder(this.root);
-        }
-
-
         private static void PrintInOrder(Node curNode)
         {
             if (curNode == null)
@@ -90,12 +79,6 @@ namespace lca_csharp
             PrintInOrder(curNode.GetLChild());
             Console.WriteLine(curNode.GetVal() + " ");
             PrintInOrder(curNode.GetRChild());
-        }
-
-        public void PrintInOrderVerbose()
-        {
-            Console.WriteLine("\n\nPRINTING\n\n");
-            PrintInOrderVerbose(this.root);
         }
 
         private static void PrintInOrderVerbose(Node curNode)
@@ -142,15 +125,6 @@ namespace lca_csharp
             }
 
             return pathToVal1[i - 1];
-        }
-
-        public List<Node> GetPathTo(int val)
-        {
-            List<Node> path = new List<Node>();
-
-            GetPathTo(this.root, val, path);
-
-            return path;
         }
 
         private static bool GetPathTo(Node root, int val, List<Node> curPath)

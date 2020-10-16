@@ -4,26 +4,10 @@ using System.Text;
 
 namespace lca_csharp
 {
-    class LowestCommonAncestor
+    public class LowestCommonAncestor
     {
         static void Main(string[] args)
         {
-            //Console.WriteLine("Hello World!!!!!!!!!!!!!");
-
-            //BinaryTree myTree = new BinaryTree();
-            //myTree.SayHello();
-
-            //Node myNode = new Node(3);
-            //Console.WriteLine("Node val: " + myNode.GetVal());
-
-            //myNode.SetLChild(5);
-            //myNode.SetRChild(6);
-
-            //Console.WriteLine("Node lchild: " + myNode.GetLChild().GetVal());
-            //Console.WriteLine("Node rchild: " + myNode.GetRChild().GetVal());
-
-            //myTree = new BinaryTree(40);
-            //Console.WriteLine("root: " + myTree.GetRoot().GetVal());
 
             BinaryTree tree = GenerateTestTree();
             //                     __[1]__
@@ -38,16 +22,6 @@ namespace lca_csharp
             //            [5]     [7] [13]      [14]      [16]
             //                                 /         /
             //                             [15]      [17]
-            tree.PrintInOrderVerbose();
-
-            int valueToFind = 12;
-            List<Node> path = tree.GetPathTo(valueToFind);
-
-            Console.WriteLine("\n\nPATH:");
-            foreach (Node node in path)
-            {
-                Console.WriteLine(node.GetVal() + " ");
-            }
 
             int val1 = 6;
             int val2 = 3;
@@ -56,7 +30,7 @@ namespace lca_csharp
         }
 
 
-        private static BinaryTree GenerateTestTree()
+        public static BinaryTree GenerateTestTree()
         {
             BinaryTree tree = new BinaryTree(1);
 
